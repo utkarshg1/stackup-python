@@ -5,9 +5,8 @@ Summary: Stack Up Analysis Package
 Author: Utkarsh Gaikwad
 Author-email: gaikwadujg@gmail.com
 Keywords: stack up,tolerance,mechanical engineering
-Classifier: Development Status :: 1 - Initial Release
-Classifier: Intended Audience :: Mechanical Engineers
-Classifier: Programming Language :: Python :: 2
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows

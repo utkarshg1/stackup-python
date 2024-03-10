@@ -22,9 +22,8 @@ setup(
         # needs to be installed along with your package. Eg: 'caer'        
         keywords=['stack up', 'tolerance', 'mechanical engineering'],
         classifiers= [
-            "Development Status :: 1 - Initial Release",
-            "Intended Audience :: Mechanical Engineers",
-            "Programming Language :: Python :: 2",
+            "Development Status :: 1 - Planning",
+            "Intended Audience :: Developers",
             "Programming Language :: Python :: 3",
             "Operating System :: MacOS :: MacOS X",
             "Operating System :: Microsoft :: Windows",
