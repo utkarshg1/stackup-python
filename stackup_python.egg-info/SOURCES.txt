@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+stackup_python/__init__.py
+stackup_python/stackup.py
+stackup_python.egg-info/PKG-INFO
+stackup_python.egg-info/SOURCES.txt
+stackup_python.egg-info/dependency_links.txt
+stackup_python.egg-info/requires.txt
+stackup_python.egg-info/top_level.txt
