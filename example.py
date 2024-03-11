@@ -23,3 +23,8 @@ print(f'Minimum : {mu-3*sigma:.2f}')
 stackup.plot_dist(c)
 
 stackup.fit_dist(c)
+
+df = stackup.get_data_frame(a=a, b=b, c=c)
+print(df)
+
+print(stackup.describe_dims(a=a, b=b, c=c))

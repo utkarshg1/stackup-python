@@ -33,5 +33,11 @@ def fit_dist(x):
     best_fit = f.get_best()
     print(f'Best fitted distribution : {best_fit}')
 
+def get_data_frame(**dims):
+    df = pd.DataFrame(dims)
+    return df
 
-
+def describe_dims(**dims):
+    df = get_data_frame(**dims)
+    d = df.describe().T
+    return d
